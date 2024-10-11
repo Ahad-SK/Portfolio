@@ -6,10 +6,13 @@
 * {
   margin: 0;
   padding: 0;
+
+
 }
 
 body {
   font-family: "Poppins", sans-serif;
+
 }
 
 html {
@@ -172,6 +175,7 @@ section {
 
 .section__pic-container {
     border: 2px sold black;
+    border-radius: 50px;
   display: flex;
   height: 400px;
   width: 400px;
